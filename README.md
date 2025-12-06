@@ -31,3 +31,5 @@ Nothing in this repository is medical advice.
 
 If anything here resonates with your situation, treat it as a prompt for a
 conversation with your own healthcare provider, not as an instruction set.
+
+Copyright (c) 2025 Walid Lodin
