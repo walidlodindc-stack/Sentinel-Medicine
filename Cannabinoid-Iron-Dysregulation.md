@@ -205,11 +205,60 @@ Always adjust for metals, smoking, inflammation, and diet.
 
 ---
 
-## Appendix A: Supporting Case (hedged)
+Appendix A: Supporting Case (Clinical Context and Long-Term Course)
+A.0 Case Summary
 
-A male patient of Central/South Asian ancestry developed cognitive impairment and exercise intolerance during a period of changing exposures. Laboratory testing showed elevated iron indices and high transferrin saturation; MRI confirmed hepatic and cardiac iron deposition. HFE testing was negative. Iron reduction therapy resolved symptoms.
+A male patient of Central/South Asian ancestry developed severe fatigue, exercise intolerance, cognitive impairment, and alcohol intolerance. Laboratory evaluation demonstrated elevated serum iron and elevated transferrin saturation. Magnetic resonance imaging (MRI) confirmed pathologic iron deposition in both hepatic and myocardial tissue. Concurrent hepatic steatosis was also noted as a separate finding.
 
-A temporal association with intermittent inhaled cannabis exposure and high dietary heme intake was observed but remains correlational. This case is included for plausibility only.
+A.1 Diagnostic Context and Limitations
+
+Standard HFE genotyping (C282Y and H63D variants) was negative. Iron homeostasis is polygenic and involves multiple genes—including those governing iron absorption, export, and regulation (e.g., SLC11A2/DMT1, SLC40A1/ferroportin, TMPRSS6/matriptase-2, and HAMP/hepcidin)—distributed across different chromosomes and exhibiting population-structured variant frequencies. Most of these genes are not evaluated by standard clinical screening panels. Accordingly, negative HFE testing does not exclude genetically mediated or regulatory iron dysregulation, particularly in non-European ancestries.
+
+Two consulting hematologists attributed the presentation to hepatic steatosis. The core objective disagreement is that MRI-documented iron deposition represents iron overload pathology independent of co-existing steatosis. The MRI demonstrated two distinct pathological processes: hepatic fat accumulation and iron accumulation within hepatic parenchyma and cardiac tissue. These processes can co-occur (e.g., dysmetabolic iron overload syndrome) but are mechanistically distinct. Fatty liver explains fat accumulation; it does not explain elevated serum iron, elevated transferrin saturation, or iron deposition in myocardium or hepatic tissue.
+
+A.2 Clinical Consequences of Diagnostic Attribution
+
+Scheduled therapeutic phlebotomies were cancelled because a definitive iron overload diagnosis was not established, despite objective MRI evidence of tissue iron deposition and disabling symptoms. The patient subsequently pursued iron reduction via blood donation when eligible and chelation therapy under medical supervision. Follow-up MRI demonstrated complete clearance of iron from both liver and heart, accompanied by full symptom resolution, confirming that iron overload—rather than steatosis—was the primary disabling pathology.
+
+A.3 Long-Term Course and Stability
+
+Over approximately 15 years of follow-up, iron homeostasis has been maintained through periodic phlebotomy (several blood donations per year), without further chelation therapy. When donation intervals extend beyond several months, cognitive impairment (“brain fog”) gradually recurs and resolves predictably following iron removal. In this individual, cognitive symptoms recur prior to overtly abnormal iron indices and resolve after iron reduction. This reversible, dose-dependent relationship confirms iron as the primary pathology and demonstrates stable long-term control through simple iron removal.
+
+The ongoing requirement for maintenance phlebotomy suggests either continued exposure to a contributing factor or a persistent alteration in iron regulatory set-point. This stable, non-progressive course is more consistent with acquired regulatory dysregulation than with classic progressive genetic iron overload syndromes.
+
+A.4 Individual Phlebotomy Kinetics (Observational Note)
+
+This case highlights a potential mismatch between population-level phlebotomy interval standards and individual iron re-accumulation kinetics. In this individual, iron-associated symptoms recur predictably when intervals between phlebotomy exceed approximately 40–60 days. Current blood donation and therapeutic phlebotomy schedules are generally standardized to population averages (commonly ~56 days) rather than individualized to iron flux or symptom recurrence.
+
+This observation is included to motivate research into individualized iron-maintenance strategies, not to suggest that existing population-level safety rules are inappropriate. Any deviation from standard intervals would require clinical oversight and formal study. This observation should not be generalized beyond the individual described and may reflect unique physiology, genetics, or exposures.
+
+A.5 Temporal Associations (Correlational Only)
+
+During the period of iron accumulation, intermittent inhaled cannabis use and high dietary heme iron intake were present. These associations are correlational only; causation cannot be inferred from a single case. Plausible alternative explanations include unidentified variants in non-HFE iron regulation genes (e.g., SLC40A1, TMPRSS6, HAMP), other environmental factors, coincidence, or combinations thereof.
+
+A.6 Diagnostic Lesson: Symptom Misattribution
+
+A metallic taste was reported during the illness and initially attributed to iron dysregulation. Retrospective analysis suggests this symptom was more consistent with selenium exposure from topical selenium sulfide use (e.g., overuse of medicated shampoo). The symptom resolved independently and did not track iron indices or treatment response.
+
+Principles illustrated: salient symptoms may not reflect underlying pathology; temporal coincidence does not imply causality; objective biomarkers are more reliable than subjective symptoms alone.
+
+A.7 Rationale for Inclusion
+
+This case is included to illustrate the following clinically relevant points:
+
+Non-HFE iron overload exists and causes morbidity. Clinically significant tissue iron deposition requiring treatment can occur despite negative standard genetic testing.
+
+Iron deposition and hepatic steatosis are mechanistically distinct. Fatty liver does not explain elevated serum iron, elevated transferrin saturation, or myocardial iron deposition.
+
+Long-term reversibility supports causality. The dose-dependent, reversible relationship between iron reduction and symptom resolution over 15 years confirms iron as the primary pathology.
+
+Individual iron kinetics vary. Population-average phlebotomy schedules may not reflect individual re-accumulation dynamics in stable, non-progressive iron dysregulation.
+
+Framework gaps have consequences. Absence of recognized mechanisms beyond HFE-centric models can delay appropriate treatment even when objective tissue pathology is documented.
+
+This case does not prove the proposed cannabinoid–hepcidin hypothesis. It demonstrates that idiopathic systemic iron overload occurs, may be misattributed when standard genetic testing is negative, can require ongoing management suggestive of persistent regulatory alteration, and may go untreated due to limitations in prevailing diagnostic frameworks.
+
+Personal health details are anonymized and included for hypothesis-context only.
 
 ---
 
