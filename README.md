@@ -12,8 +12,6 @@ A mechanistically grounded, falsifiable framework examining context-dependent ef
 [Read the full mechanistic framework](./hypotheses/Cannabinoid_Iron_Dysregulation_Bidirectional_Framework_v1.0.md)
 
 
-
-
 ### 2. Coca-Cola vs Diet Coke metabolic divergence in susceptible brains
 A hypothesis framework examining non-equivalence of metabolic and neurophysiologic effects under matched caffeine exposure in a susceptible subpopulation.  
 → [Read the full hypothesis](Coke-Diet-Coke-Susceptible-brains)
