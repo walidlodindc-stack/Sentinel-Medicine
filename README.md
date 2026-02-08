@@ -9,7 +9,8 @@ Sentinel-Medicine is a collection of mechanistically grounded, falsifiable medic
 
 ### 1. Bidirectional cannabinoid–iron interactions (DMT1 / Hepcidin)
 A mechanistically grounded, falsifiable framework examining context-dependent effects of cannabinoid exposure on iron homeostasis, with asymmetric evidence strength across competing pathways.
-→ [Read the full framework](./Cannabinoid_Iron_Dysregulation_Bidirectional_Framework_v1.0.md)
+[Read the full mechanistic framework](./hypotheses/Cannabinoid_Iron_Dysregulation_Bidirectional_Framework_v1.0.md)
+
 
 
 
