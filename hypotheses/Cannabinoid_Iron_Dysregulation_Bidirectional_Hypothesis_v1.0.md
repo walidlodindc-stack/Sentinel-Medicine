@@ -1,4 +1,5 @@
-# Cannabinoid–Iron Dysregulation
+Cannabinoid_Iron_Dysregulation/Cannabinoid_Iron_Dysregulation_Bidirectional_Framework_v1.0.md
+
 ## A Bidirectional Mechanistic Framework Involving DMT1 and Hepcidin
 
 **Document type:** Mechanistic framework with explicit falsifiers  
