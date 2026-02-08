@@ -1,150 +1,216 @@
-# Cannabinoid–Iron Dysregulation
+# Cannabinoid Exposure and Iron Dysregulation  
+## A Bidirectional Hypothesis Involving Hepcidin and DMT1 Modulation
 
-## A Bidirectional Mechanistic Framework Involving DMT1 and Hepcidin
+**Document status:** Working hypothesis — pre-submission  
+**Last revised:** February 7, 2026  
 
-**Document type:** Mechanistic framework with explicit falsifiers  
-**Status:** Preclinical / hypothesis-constraining (not clinical guidance)  
-**Version:** v1.0  
-**Last updated:** 2026-02-08  
+**Evidence labeling convention used throughout:**  
+- **(A) Evidence-backed:** established mechanisms or findings supported by controlled studies  
+- **(B) Plausible mechanism:** biologically coherent, supported by component evidence, but not directly demonstrated in the proposed context  
+- **(C) Speculation:** logical extension without direct supporting evidence  
 
 ---
 
 ## Abstract
 
-Iron homeostasis is governed primarily by two regulatory axes: intestinal iron uptake mediated by divalent metal transporter-1 (DMT1), and systemic iron distribution regulated by the hepcidin–ferroportin axis. Emerging evidence suggests that cannabinoid signaling—particularly via CB2 receptors—interacts with both axes through immunomodulatory and inflammatory pathways. However, these interactions appear context-dependent and directionally asymmetric.
+Iron homeostasis is regulated by two principal mechanisms at the intestinal and systemic level: hepcidin-mediated control of ferroportin (governing iron export from enterocytes, macrophages, and hepatocytes) and DMT1-mediated uptake of non-heme iron in the duodenum. Cannabinoid receptor type-2 (CB2) signaling interfaces with both pathways—but the evidentiary weight is asymmetric: CB2-linked inhibition of DMT1 reduces non-heme iron uptake (A), whereas potential CB2-mediated reductions in inflammatory/hepcidin signaling are inferred but unproven in typical human exposure contexts (B). Net directionality is therefore unresolved and context-dependent.
 
-This paper presents a mechanistically grounded framework in which cannabinoid exposure can plausibly contribute to either iron deficiency or iron sequestration phenotypes depending on exposure pattern, inflammatory context, and baseline iron status. The framework is explicitly falsifiable, distinguishes evidence strength across mechanisms, and identifies confounders and experimental designs capable of refuting or refining the model.
+We propose that the direction of iron dysregulation depends on exposure pattern, route of administration, baseline inflammatory tone, and dietary heme fraction (which bypasses DMT1). Intermittent exposure with preserved CB2-linked signaling, high dietary heme iron, and low inflammatory tone may produce net pro-availability and possible accumulation in susceptible individuals (B). Chronic exposure—especially inhaled—may shift toward inflammation-driven hepcidin elevation, iron sequestration, and functional iron deficiency (B). Sex-specific physiology (menstrual iron loss and estrogen-mediated hepcidin suppression) modifies clinical expression across these scenarios.
 
----
-
-## 1. Background: Core Iron Regulatory Axes
-
-### 1.1 Intestinal Iron Uptake (DMT1)
-
-DMT1 mediates non-heme iron uptake across the apical membrane of enterocytes. Its expression is regulated by intracellular iron levels, hypoxia-inducible factors, and inflammatory signaling. Upregulation increases iron absorption; downregulation limits systemic iron entry.
-
-### 1.2 Systemic Iron Distribution (Hepcidin)
-
-Hepcidin, synthesized primarily in the liver, controls iron efflux by inducing degradation of ferroportin. Elevated hepcidin results in iron sequestration within macrophages and enterocytes, producing functional iron deficiency even when total body iron stores are normal or elevated.
+This framework is mechanistically grounded, explicitly falsifiable, and generates testable predictions. Full-text extraction of iron panel results from key NHANES-based studies is required to constrain or refute it.
 
 ---
 
-## 2. Cannabinoid Signaling Relevant to Iron Homeostasis
+## 1. Introduction
 
-### 2.1 CB2 Receptors and Immune Modulation (Evidence level: A)
+Iron is essential for oxygen transport, mitochondrial metabolism, and neurotransmitter synthesis. Dysregulation—manifesting as either overload or functional deficiency—is common and frequently misclassified. While hereditary hemochromatosis explains some iron accumulation, many individuals present with unexplained overload or refractory deficiency without a clear etiology (A).
 
-CB2 receptors are expressed on immune cells and regulate cytokine production, macrophage polarization, and inflammatory tone. Multiple studies demonstrate CB2-mediated suppression of pro-inflammatory cytokines under certain conditions.
+Cannabis use is widespread, yet hematologic and metabolic consequences remain underexplored. Many commonly reported symptoms (fatigue, reduced exercise tolerance, cognitive “fog”) overlap with iron dysregulation phenotypes. Most epidemiologic studies treat cannabis exposure as binary (use vs non-use), ignoring exposure pattern, route, recovery interval, diet composition, and confounders (notably heavy metal burden).
 
-### 2.2 Interaction With Hepcidin Regulation (Evidence level: B)
-
-Hepcidin expression is sensitive to inflammatory mediators such as IL-6. By modulating immune signaling, cannabinoids may indirectly influence hepcidin synthesis. Directionality likely depends on acute vs chronic exposure and baseline inflammatory state.
-
-### 2.3 DMT1 Regulation via Inflammatory Pathways (Evidence level: B)
-
-Inflammation alters DMT1 expression through NF-κB and hypoxia-related signaling. Cannabinoid-driven immune modulation provides a plausible but not yet directly established pathway for altered DMT1 activity.
+This paper proposes a bidirectional mechanism: one arm reduces non-heme uptake via DMT1 (A), while another arm may reduce hepcidin via reduced inflammatory signaling (B). The interaction produces a “net direction” ambiguity that is biologically plausible and empirically testable.
 
 ---
 
-## 3. Bidirectional Dysregulation Model
+## 2. Iron Homeostasis: Hepcidin, DMT1, and Heme Iron
 
-### 3.1 Pathway A: Functional Iron Deficiency via Hepcidin Elevation
+### 2.1 The Hepcidin Axis
 
-**Context:** Chronic exposure, inflammatory or immune-activated baseline  
+Hepcidin is the master regulator of systemic iron balance. Produced primarily by the liver, it binds ferroportin (the only known cellular iron exporter), inducing internalization and degradation. Elevated hepcidin reduces intestinal iron export, traps iron within macrophages and hepatocytes, and produces functional iron deficiency even when total body iron stores are adequate (A).
 
-1. Cannabinoid signaling alters immune cytokine balance  
-2. IL-6–mediated hepcidin upregulation persists  
-3. Ferroportin degradation increases  
-4. Serum iron and transferrin saturation decline despite adequate stores  
+Hepcidin synthesis is upregulated by iron load, infection, and inflammatory cytokines—especially IL-6 and IL-1. IL-6 induces hepcidin through STAT3 signaling (A). IL-1 also induces hepcidin transcription through partially distinct pathways and can be a strong inducer in hepatocyte models (A).
 
-**Predicted phenotype:**  
-- Low serum iron  
-- Normal or elevated ferritin  
-- Reduced iron responsiveness to oral supplementation  
-
-(Evidence strength: B)
+Hepcidin is downregulated by iron deficiency, hypoxia, and increased erythropoietic demand. Erythropoietin-driven erythropoiesis suppresses hepcidin via erythroferrone (ERFE), which matters when interpreting hemoglobin-linked observational findings (Section 6).
 
 ---
 
-### 3.2 Pathway B: Iron Depletion via Reduced Absorption
+### 2.2 DMT1 and Non-Heme Iron Uptake
 
-**Context:** Intermittent exposure, low inflammatory tone  
+Divalent metal transporter-1 (DMT1, SLC11A2) mediates uptake of non-heme ionic iron across duodenal enterocytes. DMT1 activity is regulated by serine phosphorylation at position 43: phosphorylation activates transport; dephosphorylation inactivates it (A).
 
-1. Cannabinoid signaling suppresses inflammatory tone  
-2. Downregulation of DMT1 expression or activity  
-3. Reduced intestinal iron uptake  
-4. Progressive iron deficiency over time  
-
-**Predicted phenotype:**  
-- Low serum iron  
-- Low ferritin  
-- Preserved response to supplementation  
-
-(Evidence strength: B)
+Cannabinoids have been shown to inhibit DMT1-mediated iron uptake through CB2 signaling, reducing Ser43 phosphorylation and blocking transport activity (A). This is a direct mechanism for reduced non-heme iron absorption.
 
 ---
 
-## 4. Asymmetry and Context Dependence
+### 2.3 Heme Iron: A Parallel Absorption Pathway
 
-The two pathways are not mutually exclusive and may alternate within individuals depending on:
+Heme iron is absorbed via mechanisms distinct from DMT1 (A). While the specific transporter remains unresolved, functional independence of heme uptake from DMT1 is established. Once inside enterocytes, iron export still depends on ferroportin, which is regulated by hepcidin.
 
-- Exposure pattern (acute vs chronic)
-- Cannabinoid formulation and dose
-- Baseline immune activation
-- Dietary iron composition
-- Genetic variation in iron regulation
-
-This asymmetry explains heterogeneous clinical observations without requiring uniform effects.
+**Implication:** Dietary heme fraction is a critical variable because heme bypasses the DMT1 “brake” entirely, while hepcidin/ferroportin still governs export.
 
 ---
 
-## 5. Confounders and Competing Explanations
+## 3. Cannabinoid–Immune Signaling and Exposure Dynamics
 
-Key confounders that must be controlled before attribution:
+### 3.1 CB2 Distribution and Acute Effects (epistemically separated)
 
-- Dietary iron intake and bioavailability  
-- Gastrointestinal pathology  
-- Menstrual or occult blood loss  
-- Heavy metal exposure (lead, cadmium)  
-- Alcohol use and liver function  
+**Direct evidence (A):** CB2 receptors are expressed predominantly on immune cells (macrophages, NK cells, B cells, monocytes, T cells). Across many controlled models, CB2 activation can reduce pro-inflammatory cytokine output and dampen immune activation.
 
-Failure to control for these invalidates causal inference.
+**Downstream inference (B):** Whether typical cannabinoid exposure patterns in humans reduce IL-6 or IL-1 sufficiently to produce meaningful hepatic hepcidin suppression—across routes, doses, and time—remains unproven. Therefore, the hepcidin arm is modeled as plausible (B), not established (A).
 
 ---
 
-## 6. Explicit Falsifiers
+### 3.2 Sustained Exposure and Inhalation-Associated Inflammation
 
-The framework would be falsified if:
+With sustained exposure, CB2-linked anti-inflammatory signaling may become less reliable or less consistently expressed across time (B). This framework does not require CB2 downregulation as a necessary step; it only posits that sustained exposure can reduce the predictability of CB2-linked anti-inflammatory effects relative to intermittent exposure (B).
 
-1. Chronic cannabinoid exposure shows no association with hepcidin levels after inflammatory control  
-2. DMT1 expression remains unchanged across exposure conditions in controlled models  
-3. Iron phenotypes do not differ from matched non-exposed controls under identical diets  
+Independently, inhalation introduces combustion byproducts that provoke pulmonary epithelial inflammation (A) and may increase systemic inflammatory burden via cytokine spillover (B). These dynamics make exposure pattern and route central variables.
 
 ---
 
-## 7. Testable Predictions
+### 3.3 Confounders: Heavy Metals
 
-1. Differential ferritin–iron discordance between chronic and intermittent exposure cohorts  
-2. Exposure-pattern–specific shifts in hepcidin independent of CRP  
-3. Reversibility of iron phenotype following exposure cessation  
+Cannabis plants can accumulate metals. NHANES analyses report elevated blood cadmium and lead in exclusive marijuana users compared to non-users (A). Because cadmium and lead affect erythropoiesis and iron metabolism, heavy metal burden should be measured and adjusted in studies evaluating cannabis–iron relationships to support interpretable inference.
 
 ---
 
-## 8. Proposed Study Designs
+## 4. Competing Mechanisms and the Net-Direction Paradox
 
-- Longitudinal observational studies stratified by exposure pattern  
-- Controlled animal models with inflammatory manipulation  
-- Human crossover studies with stable dietary iron intake  
+This framework proposes two mechanisms pushing iron balance in opposing directions.
+
+**Table 1. Mechanisms, Evidence Weight, Directionality, and Likely Dominance Conditions**
+
+| Component | Mechanism | Evidence | Directional effect | More likely to dominate when… |
+|---------|---------|---------|-------------------|-------------------------------|
+| DMT1 arm | CB2 → ↓ DMT1 Ser43 phosphorylation → ↓ non-heme uptake | (A) | ↓ absorption | High non-heme diet; intermittent exposure |
+| Hepcidin arm | CB2-linked anti-inflammatory signaling → ↓ IL-6/IL-1 → ↓ hepcidin | (B) | ↑ mobilization | Low inflammation; high heme intake |
+| Inhalation modifier | Combustion → inflammation → ↑ hepcidin | (A→B) | Sequestration | Chronic inhaled exposure |
+
+**Net prediction:** Iron balance can shift toward accumulation or deficiency depending on diet, inflammation, route, and exposure pattern.
+
+---
+
+## 5. Hypothesis: Exposure-Pattern-Dependent Bidirectional Iron Dysregulation
+
+### 5.1 Intermittent + High Heme + Low Inflammation → Net Pro-Availability Possible (B)
+
+Intermittent exposure with preserved CB2 responsiveness may reduce inflammatory signaling, plausibly lowering hepcidin (B). DMT1 inhibition reduces non-heme uptake (A), but heme bypasses DMT1; therefore, high heme intake may tilt net direction toward increased availability (B).
+
+**Predicted phenotype:** Elevated serum iron indices and/or transferrin saturation in susceptible individuals without regular iron loss (B).
+
+---
+
+### 5.2 Chronic/Inhaled + High Inflammation → Net Sequestration Likely (B)
+
+Chronic exposure—especially inhaled—may increase inflammatory tone, elevating hepcidin (B). Elevated hepcidin reduces ferroportin activity, sequestering iron and producing functional iron deficiency.
+
+**Predicted phenotype:** Low TSAT with normal or elevated ferritin, fatigue, cognitive impairment, and poor response to supplementation (B).
+
+---
+
+## 6. Engagement with NHANES-Based Observational Studies
+
+### 6.1 Zhang et al. (2024; 2025)
+
+Zhang et al. (2024) reported higher hemoglobin among current marijuana users (adjusted +0.111 g/dL; p = 0.02) but did **not** analyze iron indices as outcomes. Serum iron was included only as a sensitivity covariate.
+
+Zhang et al. (2025) (PheWAS) reported multiple hematologic differences but did not report iron panel indices in the abstract.
+
+### 6.2 Required Constraint
+
+Full-text extraction of iron panel variables from both studies is required to constrain or refute this framework.
+
+### 6.3 Interpretive Scenarios
+
+1. Iron indices positive → supports pro-availability arm  
+2. Null/inverse → constrains model  
+3. Excluded → rationale informative  
+4. Multiple-comparison suppression (C) → direction unresolved  
+
+---
+
+## 7. Sex-Specific Predictions
+
+### Men
+- No physiologic iron loss  
+- Higher accumulation risk under intermittent/high-heme conditions (B)  
+- Functional deficiency possible with chronic exposure (B)
+
+### Premenopausal Women
+- Menstrual loss buffers accumulation (A)  
+- Estrogen suppresses hepcidin (A)  
+- Deficiency phenotypes may be more symptomatic (B)
+
+### Postmenopausal Women
+- Risk profile shifts toward male pattern (B)
+
+---
+
+## 8. Testable Predictions
+
+1. Frequency-stratified NHANES re-analysis  
+2. Full-text iron panel extraction  
+3. Non-heme isotope tracer studies  
+4. Hepcidin and cytokine measurement  
+5. Diet–exposure interaction effects  
+6. Sex-stratified phenotype separation  
+7. Cessation-response studies  
+
+**Explicit falsifier:** No association between exposure pattern and hepcidin or IL-6/IL-1 after adjustment refutes the hepcidin arm.
 
 ---
 
 ## 9. Limitations
 
-This framework synthesizes indirect mechanistic evidence and epidemiologic signals. Direct causal pathways remain incompletely characterized. Full-text extraction of detailed association tables from large PheWAS studies would materially strengthen constraint or refutation of the model.
+The DMT1 arm is strong (A); the hepcidin arm remains inferential (B). Effect sizes may be modest. Hepcidin is rarely measured. Confounding must be rigorously controlled.
 
 ---
 
-## 10. Conclusion
+## 10. Discussion
 
-Cannabinoid–iron interactions are unlikely to be unidirectional or uniform. A bidirectional, context-dependent model better accounts for observed variability and generates falsifiable predictions. This framework is intended to constrain hypotheses, not to guide clinical decision-making.
+This framework rejects binary exposure models and specifies why directionality should vary. It identifies missing competing mechanisms and generates falsifiable predictions rather than claims.
 
 ---
+
+## 11. References
+
+(unchanged; as provided in original draft)
+
+---
+
+## Figure 1. Net Direction Decision Tree (text schematic)
+
+**Step 1:** Route / inflammation  
+- Chronic inhaled + inflammation → sequestration  
+- Low inflammation → Step 2  
+
+**Step 2:** Exposure pattern  
+- Chronic → hepcidin dominant  
+- Intermittent → Step 3  
+
+**Step 3:** Diet  
+- High heme → pro-availability possible  
+- High non-heme → reduced absorption more likely  
+
+Always adjust for metals, smoking, inflammation, and diet.
+
+---
+
+## Appendix A: Supporting Case (hedged)
+
+A male patient of Central/South Asian ancestry developed cognitive impairment and exercise intolerance during a period of changing exposures. Laboratory testing showed elevated iron indices and high transferrin saturation; MRI confirmed hepatic and cardiac iron deposition. HFE testing was negative. Iron reduction therapy resolved symptoms.
+
+A temporal association with intermittent inhaled cannabis exposure and high dietary heme intake was observed but remains correlational. This case is included for plausibility only.
+
+---
+
+**End of document**
